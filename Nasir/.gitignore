@@ -1,0 +1,49 @@
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (shared libraries)
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# IDE and editor-specific files
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+*.swp
+*.swo
+
+# Makefile and CMake build directories
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# vs code .Identifiers files
+*.Identifiers
+
+valid_ready_noc
